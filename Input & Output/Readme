@@ -1,1 +1,27 @@
 Input & Output Problems
+
+Q1. Write a Java Program to print Welcome.
+Q2. Write a Java Program to print the given word.
+Q3. Write a Java Program to print the given message.
+Q4. Write a Java Program to print the given integer number.
+Q5. Write a Java Program to print the given fractional number.
+Q6. Write a Java Program to print the given fractional number in 2-digit decimal format.
+Q7. Write a Java Program to print the given integer number in hexadecimal format.
+Q8. Write a Java Program to print the given integer number in octal format.
+Q9. Write a Java Program to print the given hexadecimal number in integer format.
+Q10. Write a Java Program to print the given octal number in integer format.
+Q11. Write a Java Program to print the ASCII value of a character.
+Q12. Write a Java Program to print the character for the given ASCII value.
+Q13. Write a Java Program to print two numbers with a space between them.
+Q14. Write a Java Program to print two numbers with a tab space between them.
+Q15. Write a Java Program to print two numbers in two lines.
+Q16. Write a Java Program to print a character in single quotes.
+Q17. Write a Java Program to print two words in double quotes.
+Q18. Write a Java Program to print your date of birth in the format DD/MM/YYYY.
+Q19. Write a Java Program to print an integer with a plus sign (+) before it.
+Q20. Write a Java Program to print the size of char, int, float, and double.
+Q21. Write a Java Program to print your roll number and name in the format: Roll No: 123, Name: John
+Q22. Write a Java Program to print your marks in 5 subjects each on a new line.
+Q23. Write a Java Program to print your blood group.
+Q24. Write a Java Program to print current time in the format HH:MM:SS.
+Q25. Write a Java Program to print your address in multiple lines using \n.
